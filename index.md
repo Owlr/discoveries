@@ -10,6 +10,7 @@
 <a href="https://owlr.github.io/project800RVS/">Home</a>
 <a href="https://owlr.github.io/discoveries/">Discoveries</a> 
 </nav>
+<br>
   <h1>This is where U+S will post all discoveries made through RVS research!</h1> 
   <h3>1. Condensation hurts because your body is put under pressure.</h3> 
   <br>
